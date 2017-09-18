@@ -1,0 +1,28 @@
+body{
+  background-color:#25292D;
+}
+
+#tall{color: red;}
+#love{color: white;}
+
+#short{background-color:red;}
+.smart{color: white;}
+h1{background-color:red;}
+
+    <h1 id="name">my name is ermias abebe </h1>
+    <h2 id="short">my personal info</h2>
+    <h3 align="right"500px id="tall"><font size="26">phone no</font></h3>
+    <p align="right"500px id="love"><font size="20">6995708085</font><p/>
+
+    <ul>
+      <li class="smart"><font size="26">birth date</font></li>
+      <p class="smart">1990/10/14</p>
+      <li class="smart"><font size="26">  birth place</font></li>
+      <p class="smart">ethiopia,gonder</p>
+    </ul>
+    <ul>
+      <li class="smart"><font size="26">birth date</font></li>
+      <p class="smart">1990/10/14</p>
+      <li class="smart"><font size="26">  birth place</font></li>
+      <p class="smart">ethiopia,gonder</p>
+    </ul>
